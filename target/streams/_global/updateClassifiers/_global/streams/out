@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/mako/workspace/scalatraTest/my-scalatra-web-app/"), "my-scalatra-web-app")...
+[debug] Done updating ProjectRef(uri("file:/home/mako/workspace/scalatraTest/my-scalatra-web-app/"), "my-scalatra-web-app")

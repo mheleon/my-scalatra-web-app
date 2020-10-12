@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/mako/workspace/scalatraTest/my-scalatra-web-app/build.sbt","d7c4aca0b169b16b092e24821900c2cdc996eeeb"],["/home/mako/workspace/scalatraTest/my-scalatra-web-app/project/plugins.sbt","b21048266771e717d0d1f67fdaaced11b6d0e4e1"]],"lastModifiedTimes":[]}]
